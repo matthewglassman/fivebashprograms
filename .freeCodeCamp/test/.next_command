@@ -238,3 +238,6 @@ ls --color=auto -l
 ls --color=auto -l
 ./questionnaire.sh
 ./questionnaire.sh
+git add questionnaire.sh
+git commit -m "Adding a command to demonstrate script can run CLI commands".
+git push
