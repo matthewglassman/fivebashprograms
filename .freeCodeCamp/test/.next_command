@@ -218,3 +218,8 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git remote -v
 echo hello bash
 touch questionnaire.sh
+cwd
+pwd
+ls --color=auto
+ls --color=auto -al
+cat .gitignore
