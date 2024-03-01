@@ -251,3 +251,4 @@ git push
 git add questionnaire.sh
 git commit -m "Using READ to accept input from a user into a variable".
 git push
+./questionnaire.sh
