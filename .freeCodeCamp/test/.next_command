@@ -267,3 +267,5 @@ git push
 git add questionnaire.sh
 git commit -m "Edit sentence printed to include the user submitted location".
 git push
+./questionnaire
+./questionnaire.sh
