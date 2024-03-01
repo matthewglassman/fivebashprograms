@@ -257,3 +257,6 @@ git add questionnaire.sh
 git commit -m "Echo a statement that uses the input from user".
 git push
 clear
+git add questionnaire.sh
+git commit -m "Adding 2nd question variable and print to screen".
+git push
