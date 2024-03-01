@@ -244,3 +244,4 @@ git push
 git add questionnaire.sh
 git commit -m "Added first variable for questionnaire".
 git push
+git add .
