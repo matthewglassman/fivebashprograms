@@ -263,3 +263,4 @@ git push
 git add questionnaire.sh
 git commit -m "Get response to 2nd question and store in variable named location".
 git push
+./questionnaire.sh
