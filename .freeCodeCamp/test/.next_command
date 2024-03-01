@@ -228,3 +228,4 @@ git commit -m "Starting Questionnaire Project"
 git push
 chmod 755 questionnaire.sh
 sh questionnaire.sh
+bash questionnaire.sh
