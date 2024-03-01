@@ -278,3 +278,6 @@ git push
 ./questionnaire.sh
 ./questionnaire.sh
 git add .
+git add questionnaire.sh
+git commit -m "Formatted title/header to have new line added befoe and after".
+git push
