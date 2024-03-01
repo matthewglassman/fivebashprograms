@@ -234,3 +234,4 @@ git add questionnaire.sh
 git commit -m "Adding a shebang to beginning to access bash interpreter".
 git push
 ./questionnaire.sh
+ls --color=auto -l
