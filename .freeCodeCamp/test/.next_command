@@ -291,3 +291,4 @@ git add questionnaire.sh
 git commit -m "Altered the outputted sentence to include favorite website".
 git push
 ./questionnaire.sh
+./questionnaire.sh
