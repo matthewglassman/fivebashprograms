@@ -284,3 +284,6 @@ git push
 git add questionnaire.sh
 git commit -m "Added 3rd question to questionnaire".
 git push
+git add questionnaire.sh
+git commit -m "Added variable to hold user response for favorite website".
+git push
