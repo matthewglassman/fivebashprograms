@@ -229,3 +229,4 @@ git push
 chmod 755 questionnaire.sh
 sh questionnaire.sh
 bash questionnaire.sh
+which bash
