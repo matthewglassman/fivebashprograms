@@ -264,3 +264,6 @@ git add questionnaire.sh
 git commit -m "Get response to 2nd question and store in variable named location".
 git push
 ./questionnaire.sh
+git add questionnaire.sh
+git commit -m "Edit sentence printed to include the user submitted location".
+git push
