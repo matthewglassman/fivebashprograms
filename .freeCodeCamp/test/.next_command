@@ -270,3 +270,4 @@ git push
 ./questionnaire
 ./questionnaire.sh
 echo --help
+man echo
