@@ -245,3 +245,6 @@ git add questionnaire.sh
 git commit -m "Added first variable for questionnaire".
 git push
 git add .
+git commit -m "Demonstrating how to use a variable by adding a dollar sign in front of it".
+git push
+./questionnaire.sh
