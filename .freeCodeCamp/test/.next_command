@@ -252,3 +252,8 @@ git add questionnaire.sh
 git commit -m "Using READ to accept input from a user into a variable".
 git push
 ./questionnaire.sh
+__vsc_prompt_cmd_original
+git add questionnaire.sh
+git commit -m "Echo a statement that uses the input from user".
+git push
+clear
