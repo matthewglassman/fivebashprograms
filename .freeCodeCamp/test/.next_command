@@ -366,3 +366,4 @@ git add countdown.sh
 git commit -m "Remove the echoing of first argument passed in and change to an IF conditional".
 git push
 ./countdown.sh arg1
+./countdown.sh arg2
