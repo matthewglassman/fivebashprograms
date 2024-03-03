@@ -360,3 +360,4 @@ git add countdown.sh
 git commit -m "Add echo script to print first argument passed in to script".
 git push
 help
+man if
