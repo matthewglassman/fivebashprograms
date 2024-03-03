@@ -2,4 +2,7 @@
 #Program that counts down to zero from a given argument
 
 #Prints all arguments passed in
-echo $*
+#echo $*
+
+#Prints only the first argument pased to script
+echo $1
