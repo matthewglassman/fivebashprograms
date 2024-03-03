@@ -4,5 +4,9 @@
 #Prints all arguments passed in
 #echo $*
 
-#Prints only the first argument pased to script
-echo $1
+
+
+if [[ $1 == arg1 ]]
+then
+  echo true
+fi
