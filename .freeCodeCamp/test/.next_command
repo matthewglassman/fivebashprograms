@@ -362,3 +362,7 @@ git push
 help
 man if
 help if
+git add countdown.sh
+git commit -m "Remove the echoing of first argument passed in and change to an IF conditional".
+git push
+./countdown.sh arg1
