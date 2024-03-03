@@ -349,3 +349,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git add countdown.sh
 git commit -m "Added descriptive comment about the program".
 git push
+./coundown.sh
+./countdown.sh
