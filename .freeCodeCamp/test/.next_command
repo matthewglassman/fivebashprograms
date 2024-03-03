@@ -351,3 +351,4 @@ git commit -m "Added descriptive comment about the program".
 git push
 ./coundown.sh
 ./countdown.sh
+./countdown.sh arg1 arg2 arg3
