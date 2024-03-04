@@ -440,3 +440,7 @@ __vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
 trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./countdown.sh arg2
+git add countdown.sh
+git commit -m "Changed IF statement to check if first argument is less than 5".
+git push
+./countdown.sh 4
