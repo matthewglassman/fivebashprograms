@@ -517,3 +517,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 help test
 [[ -a countdown.sh ]]
 [[ -a bad_file.txt ]]
+[[ -x countdown.sh ]]
