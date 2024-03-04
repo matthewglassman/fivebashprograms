@@ -455,3 +455,7 @@ git commit -m "Change the conditional from less than 5 to less than or equal".
 git push
 [[ 4 -le 5 ]]
 echo $?
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+[[ 4 -le 5 ]]
+[[ 4 -ge 5 ]]
