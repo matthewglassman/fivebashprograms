@@ -520,3 +520,4 @@ help test
 [[ -x countdown.sh ]]
 clear
 help [[
+[[ -x countdown.sh && 5 -le 4 ]]
