@@ -445,3 +445,4 @@ git commit -m "Changed IF statement to check if first argument is less than 5".
 git push
 ./countdown.sh 4
 ./countdown.sh 5
+help
