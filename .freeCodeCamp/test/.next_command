@@ -607,3 +607,5 @@ git add countdown.sh
 git commit -m "Change 1st echo statement to a for loop that decrements the number until it reaches 1".
 git push
 ./countdown.sh 10
+help pause
+help
