@@ -680,3 +680,4 @@ git commit -m "Change number variable to hold a random integer now no larger tha
 git push
 ./bingo.sh
 I=0
+echo $I
