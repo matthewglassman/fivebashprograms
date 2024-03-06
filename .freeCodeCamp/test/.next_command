@@ -669,3 +669,9 @@ declare -p
 clear
 print $RANDOM
 echo $RANDOM
+git add bingo.sh
+git commit -m "Change number variable to hold a random integer".
+git push
+clear
+./bingo.sh
+./bingo.sh
