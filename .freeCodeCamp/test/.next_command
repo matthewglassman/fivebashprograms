@@ -656,3 +656,6 @@ chmod u+x bingo.sh
 git add bingo.sh
 git commit -m "Starting bingo number generator by adding reference to bash interpreter".
 git push
+git add bingo.sh
+git commit -m "Print title of Bingo Number Generator".
+git push
