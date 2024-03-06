@@ -675,3 +675,7 @@ git push
 clear
 ./bingo.sh
 ./bingo.sh
+git add bingo.sh
+git commit -m "Change number variable to hold a random integer now no larger than 75".
+git push
+./bingo.sh
