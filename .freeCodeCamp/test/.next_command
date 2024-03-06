@@ -653,3 +653,6 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch bingo.sh
 chmod u+x bingo.sh
+git add bingo.sh
+git commit -m "Starting bingo number generator by adding reference to bash interpreter".
+git push
