@@ -594,3 +594,8 @@ __vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
 [[ "$__vsc_dbg_trap" != '__vsc_preexec "$_"' && "$__vsc_dbg_trap" != '__vsc_preexec_all "$_"' ]]
 trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
+git add countdown.sh
+git commit -m "Change the 2nd echo statement from False to something more definitive".
+git push
+./countrdown.sh 1
+./countdown.sh 1
