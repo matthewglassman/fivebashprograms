@@ -698,3 +698,4 @@ echo $J
 clear
 declare -p
 declare -p J
+declare -p RANDOM
