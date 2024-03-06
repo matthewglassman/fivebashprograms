@@ -710,3 +710,4 @@ echo $(( RANDOM % 75 + 1 ))
 git add bingo.sh
 git commit -m "Changed NUMBER variable to hold a random number between 1 and 75".
 git push
+help let
