@@ -664,3 +664,4 @@ git add bingo.sh
 git commit -m "Create a variable to hold a number and print that number".
 git push
 printenv
+echo $LANG
