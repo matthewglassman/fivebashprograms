@@ -609,3 +609,4 @@ git push
 ./countdown.sh 10
 help pause
 help
+ls --color=auto /
