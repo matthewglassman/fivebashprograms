@@ -659,3 +659,4 @@ git push
 git add bingo.sh
 git commit -m "Print title of Bingo Number Generator".
 git push
+./bingo.sh
