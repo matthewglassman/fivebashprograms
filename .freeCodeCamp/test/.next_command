@@ -623,3 +623,8 @@ git add countdown.sh
 git commit -m "Made multiline comment to comment out for loop".
 git push
 help while
+git add countdown.sh
+git commit -m "Created a while loop to perform countdown".
+git push
+.countdown.sh 5
+./countdown.sh 5
