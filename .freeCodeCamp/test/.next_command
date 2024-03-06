@@ -666,3 +666,6 @@ git push
 printenv
 echo $LANG
 declare -p
+clear
+print $RANDOM
+echo $RANDOM
