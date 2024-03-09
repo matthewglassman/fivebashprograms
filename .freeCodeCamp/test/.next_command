@@ -796,3 +796,8 @@ git push
 ./bingo.sh
 git add bingo.sh
 git commit -m "Added ELIF for when number is less than 61 using brackets".
+git add bingo.sh
+git commit -m "Added last condition for all numbers between 61-75 pring O".
+git push
+./bingo.sh
+./bingo.sh
