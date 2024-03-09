@@ -801,3 +801,18 @@ git commit -m "Added last condition for all numbers between 61-75 pring O".
 git push
 ./bingo.sh
 ./bingo.sh
+./bingo.sh
+./bingo.sh
+./bingo.sh
+./bingo.sh
+./bingo.sh
+./bingo.sh
+./bingo.sh
+./bingo.sh
+./bingo.sh
+./bingo.sh
+git add bingo.sh
+git commit -m "Bingo Number Generator Final".
+git push
+clear
+touch fortune.sh
